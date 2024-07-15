@@ -10,6 +10,9 @@
 ## Aprendendo
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div><br/>
+<div style="display: inline_block">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED2E38?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/> 
 
 
