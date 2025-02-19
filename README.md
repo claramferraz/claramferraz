@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14036E&center=true&random=false&width=435&lines=Oii%2C+bem+vindo!)](https://git.io/typing-svg)
 
  ## 🙆‍♀️ Quem sou eu 
- Me chamo Clara, tenho 18 anos e sou estudante de Sistemas de Informação
+ Me chamo Clara, tenho 19 anos e sou estudante de Sistemas de Informação
  <br>
- Atualmente no 1° período na UFRPE
+ Atualmente no 2° período na UFRPE
  <br>
  Estou buscando sempre aprender mais
  <br>
