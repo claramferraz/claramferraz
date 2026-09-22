@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02CCFE&align-center=true&random=false&width=435&lines=Hello%2C+welcome!)](https://git.io/typing-svg)
 
  ## 🙆‍♀️ Who I am
- I'm Clara and I'm a grad student for Information Systems. I'm passionate about data and how to use them to inovate and solve problems and currently focusing on data and how to work with it. I'm also a back-end developer. 
+ I'm Clara and I'm a grad student for Information Systems. I'm passionate about data and how to use them to inovate and solve problems and I'm currently focusing on how to work with it and get deeper knowledge. I'm also a back-end developer. 
  <br>
 ## Programming Languages
 <div style="display: inline_block">
