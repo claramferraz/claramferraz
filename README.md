@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02CCFE&center=true&random=false&width=435&lines=Hello%2C+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02CCFE&align-center=true&random=false&width=435&lines=Hello%2C+welcome!)](https://git.io/typing-svg)
 
  ## 🙆‍♀️ Who I am
  I'm Clara and I'm a grad student for Information Systems. I'm passionate about data and how to use them to inovate and solve problems. 
